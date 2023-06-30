@@ -1,0 +1,11 @@
+﻿{
+  "Name": "[FS] StarAmy's Space Suit",
+  "Author": "StarAmy",
+  "Version": "1.0.0",
+  "Description": "A space suit for the extra adventurous valley resident.",
+  "UniqueID": "StarAmy.SpaceSuit",
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "4.3.0"
+  }
+}
